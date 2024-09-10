@@ -53,9 +53,5 @@ div {
   border-radius: 10x;
 }
 img {
-    border-radius: 10px;
-    position: absolute;
-    top: 20%;
-    left: 20%;
-    transform: translate(-50%, -50%);   
+    border-radius: 10px; 
 }
