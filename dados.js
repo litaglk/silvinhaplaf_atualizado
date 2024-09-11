@@ -22,4 +22,5 @@ let dados = [
     descricao: "Johnny Panic e a Bíblia dos Sonhos é uma das obras mais enigmáticas e intensas da poeta americana Sylvia Plath. Publicado postumamente, o livro é uma coletânea de poemas que nos leva a um labirinto de emoções, medos e desejos que habitavam a mente da autora."
     link: "https://en.wikipedia.org/wiki/Johnny_Panic_and_the_Bible_of_Dreams"
     tags: "sonhos psicanálise conto"
+}
     ];
