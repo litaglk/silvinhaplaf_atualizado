@@ -7,7 +7,7 @@ h1 {
     font-family: Verdana;
 }
 p {
-    color: #89592F;
+    color: black;
     font-family:'Times New Roman';
     font-size: 18px;
     text-align: justify;
@@ -16,6 +16,7 @@ footer {
     color: #6C1B13;
     text-align: center;
     font-size: 15px;
+    background-color: #89592F;
 }
   button {
     background-color: #6C1B13;
