@@ -8,7 +8,7 @@ function pesquisar() {
 
     // se campoPesquisa for uma string sem nada
     if (!campoPesquisa) {
-        section.innerHTML = "<p>Nada foi encontrado. Digite o nome de uma obra ou estudo</p>"
+        section.innerHTML = "<p>Nada foi encontrado. Digite o nome de uma obra ou estudo.</p>"
         return
     }
 
