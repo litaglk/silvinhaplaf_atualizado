@@ -16,7 +16,7 @@ let dados = [
         descricao: "Os Diários de Sylvia Plath oferecem um olhar íntimo e revelador sobre a vida da poetisa, desde sua infância até os anos seus últimos dias de vida",
         link: "https://pt.wikipedia.org/wiki/Os_Diários_de_Sylvia_Plath",
         tags: "casamento relação obra"
-      }
+      },
       {
         titulo: "Johnny Panic e a Bíblia dos Sonhos",
         descricao: "Johnny Panic e a Bíblia dos Sonhos é uma das obras mais enigmáticas e intensas da autora. Publicado postumamente, o livro é uma coletânea de poemas que nos leva a um labirinto de emoções, medos e desejos que habitavam sua mente",
