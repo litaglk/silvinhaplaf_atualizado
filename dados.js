@@ -17,10 +17,10 @@ let dados = [
         link: "https://pt.wikipedia.org/wiki/Os_Diários_de_Sylvia_Plath",
         tags: "casamento relação obra"
       }
-    {
-    titulo: "Johny Panic e a Bíblia dos Sonhos"
-    descricao: "Johnny Panic e a Bíblia dos Sonhos é uma das obras mais enigmáticas e intensas da poeta americana Sylvia Plath. Publicado postumamente, o livro é uma coletânea de poemas que nos leva a um labirinto de emoções, medos e desejos que habitavam a mente da autora."
-    link: "https://en.wikipedia.org/wiki/Johnny_Panic_and_the_Bible_of_Dreams"
-    tags: "sonhos psicanálise conto"
-}
+      {
+        titulo: "Johnny Panic e a Bíblia dos Sonhos",
+        descricao: "Johnny Panic e a Bíblia dos Sonhos é uma das obras mais enigmáticas e intensas da autora. Publicado postumamente, o livro é uma coletânea de poemas que nos leva a um labirinto de emoções, medos e desejos que habitavam sua mente",
+        link: "https://en.wikipedia.org/wiki/Johnny_Panic_and_the_Bible_of_Dreams",
+        tags: "sonhos psicanálise conto"
+    }
     ];
