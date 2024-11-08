@@ -31,8 +31,14 @@ let dados = [
     },
     {
       titulo: "Sylvia Plath, entre a escrita e o sangue: O trágico como potência do inefável da vida",
-      descricao: "Estudo realizado por BVLS, com orientação de MCAA, sobre a abordagem da morte nas obras da autora",
+      descricao: "Estudo realizado por BVLS, com orientação de MCAA, sobre a abordagem da morte nas obras da autora.",
       link: "https://repositorio.ufmg.br/bitstream/1843/LETR-AP5GJ4/1/disserta__o___beatriz_viana_lopes_saltarelli.pdf",
       tags: "morte niilismo trágico"
+    },
+    {
+      titulo: "A vida após a morte de Sylvia Plath: mutilação de uma obra, censura de uma vida",
+      descricao: "Artigo realizado por IGB sobre como a obra e a vida da autora foi conduzida e recortada após sua morte.",
+      link: "https://periodicos.ufsc.br/index.php/ref/article/view/86619/54788",
+      tags: "artigo censura ariel"
     },
     ];
