@@ -1,9 +1,9 @@
 let dados = [
     {
-        titulo: "A Redoma de Vidro",
-        descricao: "A Redoma de Vidro é um romance quase autobiográfico de Sylvia Plath que nos convida a uma profunda jornada pela mente de uma jovem mulher em crescimento.",
-        link: "https://pt.wikipedia.org/wiki/Sylvia_Plath",
-        tags: "biografia cidade feminismo"
+        titulo: "Identidades Fragmentadas na Pós-Modernidade: Um Estudo do Poema 'Lady Lazarus' de Sylvia Plath",
+        descricao: "Estudo realizado por RS a fim de se debruçar no poema Lady Lazarus e seu contexto",
+        link: "https://revistas.uepg.br/index.php/muitasvozes/article/view/10263/209209209380",
+        tags: "pós modernismo poema lady lazarus"
       },
       {
         titulo: "Ariel",
